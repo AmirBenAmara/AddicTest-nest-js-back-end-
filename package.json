@@ -21,7 +21,7 @@
   },
   "dependencies": {
     "@nestjs/common": "^5.1.0",
-    "@nestjs/core": "^5.1.0",
+    "@nestjs/core": "^9.2.1",
     "@nestjs/mongoose": "^6.0.0",
     "bcryptjs": "^2.4.3",
     "body-parser": "^1.18.3",
